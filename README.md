@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**114052-Chiaraviglio-Sofia/114052-Chiaraviglio-Sofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Acerca de mí:
 
-Here are some ideas to get you started:
+Mi nombre es Sofia Chiaraviglio,tengo 22 años y vivo en la ciudad de Córdoba.
+Actualmente soy estudiante de segundo año de la Tecnictura Universitaria en Programación en la UTN esperando concluirla con éxito para obtener mi título y sacarle provecho en mis futuros proyectos laborales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Experiencia Laboral:
+
+*2018-2019: Vendedora-Dexter calzados 
+*2020-2021: Atencion al cliente-Supermercado Disco
+
+#Estado Academico:
+*Diplomatura en Marketing Digital-2021
+![](https://www.ficde.org/wp-content/uploads/2020/07/logotipo-ficde-02-1.png)
