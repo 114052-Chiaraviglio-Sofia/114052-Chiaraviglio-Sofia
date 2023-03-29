@@ -6,12 +6,12 @@ Actualmente soy estudiante de segundo año de la Tecnictura Universitaria en Pro
 
 ### Experiencia Laboral:
 
-*2018-2019: Vendedora-Dexter calzados 
-*2020-2021: Atencion al cliente-Supermercado Disco
+* 2018-2019: Vendedora-Dexter calzados 
+* 2020-2021: Atencion al cliente-Supermercado Disco
 
 ### Estado Academico:
 
-*Diplomatura en Marketing Digital-2021
+* Diplomatura en Marketing Digital-2021
 
 
 
