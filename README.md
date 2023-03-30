@@ -12,7 +12,7 @@ Actualmente soy estudiante de segundo año de la Tecnictura Universitaria en Pro
 ### Estado Academico:
 
 * Diplomatura en Marketing Digital-2021
-
+* Egresada del colegio San Jose MPD-Bachiller en comunicacion
 
 
 
